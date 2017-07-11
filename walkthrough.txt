@@ -1,0 +1,564 @@
+
+
+
+Moon Prince: Prince of The Moon
+An Interactive Fiction by Samuel Reha
+Release 1 / Serial number 150607 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+You are MOON PRINCE, the Prince of the Moon, and heir to the throne of the MOON KINGDOM. While on vacation on the planet EARTH, you recieved a distress call from your father, MOON KING. Though the message is garbled, you ascertain that he is in serious trouble, and that MOON DUKE, your dastardly uncle has lead a coup against the MOON KINGDOM!
+
+Quickly, you hop into your luxurious SPACE SHIP, and take to the skies to return home! However, while transiting between Earthly and Lunar orbit, you are set upon by SPACE ASSASSINS, no doubt sent by MOON DUKE. Though you bravely dodge their laser blasts, a lone beam eventually strikes the left nacelle of your SPACE SHIP, spending you spiralling towards the surface of the MOON. You stuggle to maintain control of your craft, but eventually are forced to attempt a crash landing in the mountains east of the MOON KINGDOM. You ship smacks into the surface of the MOON with a horrible smashing noise, and though badly shaken you find yourself otherwise unharmed.
+
+Forcing yourself to gather your thoughts, you realize what you must do: FIND YOUR FATHER, and RETAKE THE KINGDOM OF THE MOON.
+
+Space Pod
+Smashed navigation displays flicker on and off, and sparks fly from an exposed power cable overhead. The once clean and luxurious interior of the space craft has been thrown into disarray, but thankfully the glove box appears to be completely intact. South of you, you see the escape hatch, apparently unobstructed! The cabin is slightly smokey, and you begin to fear the pod may soon catch fire.
+
+>s
+(first opening the escape hatch)
+
+Crash Site
+You stand in the sizeable blast-crater that was created when your ship fell from orbit. You appear to have crash-landed in a mountainous region, and the familiar basalt peaks of your homeland surround you.
+
+To the south, you see the mouth of a narrow canyon, hardly more than a crevice in the arrid rockface.
+
+>s
+
+Canyon
+You stand in the shadows of a small lunar canyon. The canyon is narrow, just wide enough for two people to stand should to shoulder within it. You ponder for a moment how a canyon might have formed on the surface of the moon, lacking any sort of errosive processes or techtonic activity, but push the thought from your mind.
+
+To the north, you see the crater where your wrecked ship lies.
+
+To the east, you see an opening leading to the valley floor.
+
+>e
+
+Southern Lowlands
+You stand in the soft dust of the lunar lowlands. The sun is high in the sky, casting a hard white light across the landscape.  All around in in the distance are the mountains forming the rim of the crater that forms the boundary of the MOON KINGDOM. In the distance to the north-east, you see the stately domes and pillars of the MOON PALACE.
+
+To the north, you see the even more of the flat, featureless moonscape that can only mean on thing: more lowlands.
+
+To the east, you can just make out the shores of Moon Lake.
+
+>e
+
+Western Shores of the Moon Lake
+A cool breeze blows gently across the lake, despite the complete lack of atmosphere on the surface of the moon.
+
+To the north, you see the exterior walls of the Moon Palace, as well as the entrance to the Moon Palace Courtyard.
+
+To the east, you see the Eastern Shores of Moon Lake.
+
+To the south, you see a small pier.
+
+To the west, you see the Lunar Lowlands.
+
+>n
+
+Moon Palace Courtyard
+You are standing in the graceful and beautiful courtyard of the Moon Palace. The high outer walls of the palace encircle the courtyard, and around the edges of the enclosed space are small, but gorgeous, gardens of flowers and vines. A paved stone walkway connects the gateway to the south of you to the Palace Entrance to the north of you. In the middle of the courtyard is a small circle of stone benches covered over by a wooden veranda.
+
+To the south, you see the sandy beaches of the Western Shores of the Moon Lake.
+
+You can see an Ugly Guard and a Dumb Guard here.
+
+>talk to Dumb Guard
+Dumb Guard says:
+"Ah gee, yah know... I heard there was this old cult or something living up north in the mountains. MOON DUKE says they're not real, but I swear I saw some old guy in a wierd robe sneaking around the palace last night. Who else could it have been? When I was little, my mom used to tell me bedtimes stories about the MOON MAGI, a bunch of monks who lived in secret and protected the MOON KINGDOM from evil. Do you think that guy I saw was a MOON MAGI? I dunno. It's probably nothing..."
+
+>s
+
+Western Shores of the Moon Lake
+A cool breeze blows gently across the lake, despite the complete lack of atmosphere on the surface of the moon.
+
+To the north, you see the exterior walls of the Moon Palace, as well as the entrance to the Moon Palace Courtyard.
+
+To the east, you see the Eastern Shores of Moon Lake.
+
+To the south, you see a small pier.
+
+To the west, you see the Lunar Lowlands.
+
+>w
+
+Southern Lowlands
+You stand in the soft dust of the lunar lowlands. The sun is high in the sky, casting a hard white light across the landscape.  All around in in the distance are the mountains forming the rim of the crater that forms the boundary of the MOON KINGDOM. In the distance to the north-east, you see the stately domes and pillars of the MOON PALACE.
+
+To the north, you see the even more of the flat, featureless moonscape that can only mean on thing: more lowlands.
+
+To the east, you can just make out the shores of Moon Lake.
+
+>n
+
+Northern Lowlands
+The lowlands are as they have been your entire life: flat, dusty, and empty. Looking to the west, you see a thin whisp of smoke rising between the crags of the valley rim; it must be your ship. Eastward, in the middle distance, you see the smooth, high walls that encircle the Moon Palace, though you see no way through or over them.
+
+To the north, you see the Western Moon Mountains.
+
+To the south, you see the rest of the freaking Lowlands.
+
+>n
+
+Western Moon Mountains
+You are standing in foothills of the northern rim of the valley. From up here, you can see far across the valley, all the way past Moon Lake to the southern rim! In the distance to the south-east, you see the domes and pillars of the Moon Palace.
+
+To the east, you see a small foot-path leading further into the mountains.
+
+To the south, you see the empty and boring nothingness that is the lowlands.
+
+>e
+
+Moon Mountain Pass
+You find yourself standing in a hidden mountain pass. High basalt rock faces surround the narrow trail on sides, you might think about climbing them if they didn't look so overwhelmingly precarious. The mountains and hills surround the trail make it quite hidden, it would be impossible to spot this area from the valley floor.
+
+To the north, you see a small and winding staircase that appears to have been cut directly into the rock. It leads far away, and high into the mountains.
+
+To the east, the trail continues back down into the eastern foothills.
+
+To the west, the trail continues back down into the western foothills.
+
+>n
+
+Temple of The Moon Magi
+Cresting the staircase, you find yourself standing at the entrace to a magnificent and ancient looking temple. This must be the temple of the Moon Magi, the secretive sect said to hold ancient secrets about the lost artefacts of the Moon Monarchy. Looking around, you see the temple is perfectly hidden among the peaks of the northern rim of the crater valley.
+
+To the south, you see the staircase leading back down into the hidden mountain pass.
+
+You can see a Moon Magistrate here.
+
+>talk to Moon Magistrate
+Moon Magistrate says:
+"I see you have found our hidden temple. We have been waiting for you, MOON PRINCE. There is much trouble in the MOON KINGDOM, as I am sure you are aware. Thankfully, the MOON DUKE is not clever enough to find us here. Though we are but few and weak scholarly magi, and we cannot stop this evil on our own. In this hour of peril, it is only you that can save the MOON KINGDOM!
+
+But, even you are not strong enough to defeat MOON DUKE on your own. Legend tells of two ancient artefacts, handed down by the GREAT SPACE WIZARD to the first King of the Moon thousands of years ago. These artefacts were tools, powerful weapons meant to protect the monarchy. If you can find and recover the ANCIENT ORB OF LUNAR SOVERIGNTY and the ANCESTRAL MOON SWORD, you will be able to end this travesty and restore order to the Moon Kingdom!"
+
+You must first recover the ANCIENT ORB OF LUNAR SOVERIGNTY. Only with that may your quest be successful. In this regard, however, we cannot help you much, for this artefact was lost many generations ago. However, some years ago, when you were just a moonling, an expedetion was mounted by a brave archeologist named CAVE EXPLORER. She sought the orb so that she could return it to your father, and strengthen the MOON KINGDOM. However, she went missing while exploring the MOON CAVES, and has not been heard from since."
+
+>s
+
+Moon Mountain Pass
+You find yourself standing in a hidden mountain pass. High basalt rock faces surround the narrow trail on sides, you might think about climbing them if they didn't look so overwhelmingly precarious. The mountains and hills surround the trail make it quite hidden, it would be impossible to spot this area from the valley floor.
+
+To the north, you see a small and winding staircase that appears to have been cut directly into the rock. It leads far away, and high into the mountains.
+
+To the east, the trail continues back down into the eastern foothills.
+
+To the west, the trail continues back down into the western foothills.
+
+>e
+
+Eastern Moon Mountains
+You are standing in the hills that line the crater in which the Moon Kingdom lies. Looking southward, the view of the valley is gorgeous, and you stop for a minute to enjoy the view. In the distance to the south-west, you see the domes and pillars of the Moon Palace.
+
+To the west, you see a trail leading upwards into the mountains.
+
+To the south, you see the enormous cliff which forms the eastern wall of the valley.
+
+>s
+
+Great Cliff
+You are standing at the base of a towering cliff. Though the northern, southern and western sides of the valley are rimmed with the gently sloping hills typical of a crater basin, the eastern edge of the valley is bounded by a massive cliff face, perhaps two or three hundred meters high! Westward, in the middle distance, you see the smooth, high walls that encircle the Moon Palace, though you see no way through or over them. Standing at the base of the massive cliff, you see a small opening, just large enough to walk through. It must be the Mouth of the Moon Caves.
+
+To the north, you see a path leading into the northern mountains.
+
+To the east, you see the Mouth of the Moon Caves.
+
+To the south, you see the glistening waters of Moon Lake.
+
+>e
+
+Mouth of The Moon Caves
+You stand in the mouth of the Moon Caves. Sunlight filters in behind you, but ahead of you it is almost pitch black.
+
+To the east, you see the Dark Junction.
+
+To the west, you see the Great Cliff.
+
+>e
+
+Dark Junction
+To the north, you see the Dim Hollow.
+
+To the south, you see the Spooky Tunnel.
+
+To the west, you see the Mouth of the Moon Caves.
+
+>s
+
+Spooky Tunnel
+To the east, you see the Eerie Passageway.
+
+To the north, you see the Dark Junction.
+
+>e
+
+Eerie Passageway
+To the west, you see the Spooky Tunnel.
+
+To the east, you see the Caved-In Shaft.
+
+>e
+
+Caved-in Shaft
+You find yourself in a cramped and dusty passageway. There are rocks and boulders all around you, and they block the path to the east. There appears to have been a very severe cave-in.
+
+To the west, you see the Eerie Passageway
+
+You can see a skeleton here.
+
+>x skeleton
+Though faded, the pithe helmet and khaki shorts betray this corpse to be that of an old-timey explorer, most likely CAVE EXPLORER herself. She seems to have taken a nasty whack on the head during whatever moonquake or rockslide happened that sealed off this shaft. Her breast pocket is exposed, but buttoned shut.
+
+>open pocket
+You open the pocket, revealing a scrawled note.
+
+>take note
+Taken.
+
+>l
+Caved-in Shaft
+You find yourself in a cramped and dusty passageway. There are rocks and boulders all around you, and they block the path to the east. There appears to have been a very severe cave-in.
+
+To the west, you see the Eerie Passageway
+
+You can see a skeleton here.
+
+>w
+
+Eerie Passageway
+To the west, you see the Spooky Tunnel.
+
+To the east, you see the Caved-In Shaft.
+
+>w
+
+Spooky Tunnel
+To the east, you see the Eerie Passageway.
+
+To the north, you see the Dark Junction.
+
+>n
+
+Dark Junction
+To the north, you see the Dim Hollow.
+
+To the south, you see the Spooky Tunnel.
+
+To the west, you see the Mouth of the Moon Caves.
+
+>x note
+In rushed handwriting, someone has scrawled the following message:
+
+"Aha! I've finally decoded the message I found carved on the wall deeper in the cave! It says, to find the orb, you must go east - north - east - north - north - west- north - east". Don't forget to start from the mouth...
+
+>n
+
+Dim Hollow
+To the north, you see the Ghastly Crawlspace.
+
+To the east, you see the Perilous Junction.
+
+To the south, you see the Dark Junction.
+
+>e
+
+Perilous Junction
+To the north, you see the Suspicious Shaft.
+
+To the east, you see the Unlit Underpassage.
+
+To the west, you see the Dim Hollow
+
+>n
+
+Suspicious Shaft
+To the north, you see the Unsafe Subterrane.
+
+To the south, you see the Perilous Junction.
+
+>n
+
+Unsafe Subterrane
+To the east, you see the Mysterious Tunnel.
+
+To the west, you see the Dangerous Grotto.
+
+To the south, you see the Suspicious Shaft.
+
+>w
+
+Dangerous Grotto
+To the north, you see the Frightful Fissure.
+
+To the west, you see the Dank Cavern.
+
+To the east, you see the Unsafe Subterrane.
+
+>n
+
+Frightful Fissure
+To the east, you see the Chamber of the Orb.
+
+To the south, you see the Dangerous Grotto.
+
+>e
+
+Chamber of the Orb
+You find yourself in a dimly lit chamber. In front of you sits an immaculately carved pedestal.
+
+To the west, you see the Frightful Fissure.
+
+You can see a pedestal (on which is an Ancient Orb of Lunar Soverignty) here.
+
+>take orb
+Taken.
+
+>w
+
+Frightful Fissure
+To the east, you see the Chamber of the Orb.
+
+To the south, you see the Dangerous Grotto.
+
+>s
+
+Dangerous Grotto
+To the north, you see the Frightful Fissure.
+
+To the west, you see the Dank Cavern.
+
+To the east, you see the Unsafe Subterrane.
+
+>e
+
+Unsafe Subterrane
+To the east, you see the Mysterious Tunnel.
+
+To the west, you see the Dangerous Grotto.
+
+To the south, you see the Suspicious Shaft.
+
+>s
+
+Suspicious Shaft
+To the north, you see the Unsafe Subterrane.
+
+To the south, you see the Perilous Junction.
+
+>s
+
+Perilous Junction
+To the north, you see the Suspicious Shaft.
+
+To the east, you see the Unlit Underpassage.
+
+To the west, you see the Dim Hollow
+
+>w
+
+Dim Hollow
+To the north, you see the Ghastly Crawlspace.
+
+To the east, you see the Perilous Junction.
+
+To the south, you see the Dark Junction.
+
+>s
+
+Dark Junction
+To the north, you see the Dim Hollow.
+
+To the south, you see the Spooky Tunnel.
+
+To the west, you see the Mouth of the Moon Caves.
+
+>w
+
+Mouth of The Moon Caves
+You stand in the mouth of the Moon Caves. Sunlight filters in behind you, but ahead of you it is almost pitch black.
+
+To the east, you see the Dark Junction.
+
+To the west, you see the Great Cliff.
+
+>w
+
+Great Cliff
+You are standing at the base of a towering cliff. Though the northern, southern and western sides of the valley are rimmed with the gently sloping hills typical of a crater basin, the eastern edge of the valley is bounded by a massive cliff face, perhaps two or three hundred meters high! Westward, in the middle distance, you see the smooth, high walls that encircle the Moon Palace, though you see no way through or over them. Standing at the base of the massive cliff, you see a small opening, just large enough to walk through. It must be the Mouth of the Moon Caves.
+
+To the north, you see a path leading into the northern mountains.
+
+To the east, you see the Mouth of the Moon Caves.
+
+To the south, you see the glistening waters of Moon Lake.
+
+>s
+
+Eastern Shores of the Moon Lake
+You stand on the peaceful shores of the Moon Lake. The gently lapping waves relax you, and take you back to memories of your youth, and all the hours spent learning to sail with your father. You begin to realize that because the moon has no atmosphere, there couldn't have been any wind to sail with, nor liquid water to form the lake...
+
+To the north, you see the Great Cliff.
+
+To the west, you see the Western Shores of Moon Lake.
+
+>w
+
+Western Shores of the Moon Lake
+A cool breeze blows gently across the lake, despite the complete lack of atmosphere on the surface of the moon.
+
+To the north, you see the exterior walls of the Moon Palace, as well as the entrance to the Moon Palace Courtyard.
+
+To the east, you see the Eastern Shores of Moon Lake.
+
+To the south, you see a small pier.
+
+To the west, you see the Lunar Lowlands.
+
+>s
+
+Pier
+You stand on the end of the old and rickety pier, looking out across the majesty of Moon Lake. Far off in the distance, you see a statue of a woman rising out of the water.
+
+To the north, the pier leads back to the beach.
+
+>use orb
+You hold the orb above your head, and shouting at the top of your moon-lungs call upon the strength of the GREAT SPACE WIZARD! The orb begins to flash kaleidoscopic colors and starts vibrating intensely. You let go, and it hangs above you motionless, as if it were fixed in place. A single pure white beam of light emerges from the orb, and passes over the lake, ultimately coming to rest on the forhead of the mysterious statue of the LADY IN THE MOON LAKE. Suddenly, the statue shifts position. She raises her sword high above her head, and with a loud cracking noise, she throws the sword all the way across the lake, and it clatters to the ground on the pier. You reach down and collect the sword, which shimmers magnificently in your hand. The orb stops flashing, and descends into your open hand. Looking out over the lake, the statue's position seems to have frozen the moment she let go of the sword. Her now-petrified hand is still reaching towards you, and her eyes, intense and alert looking looking, leave you with the distinct impression that she was looking directly at you.
+
+>i
+You are carrying:
+  an Ancestral Moon Sword
+  an Ancient Orb of Lunar Soverignty
+  a scrawled note
+
+>n
+
+Western Shores of the Moon Lake
+A cool breeze blows gently across the lake, despite the complete lack of atmosphere on the surface of the moon.
+
+To the north, you see the exterior walls of the Moon Palace, as well as the entrance to the Moon Palace Courtyard.
+
+To the east, you see the Eastern Shores of Moon Lake.
+
+To the south, you see a small pier.
+
+To the west, you see the Lunar Lowlands.
+
+>n
+
+Moon Palace Courtyard
+You are standing in the graceful and beautiful courtyard of the Moon Palace. The high outer walls of the palace encircle the courtyard, and around the edges of the enclosed space are small, but gorgeous, gardens of flowers and vines. A paved stone walkway connects the gateway to the south of you to the Palace Entrance to the north of you. In the middle of the courtyard is a small circle of stone benches covered over by a wooden veranda.
+
+To the south, you see the sandy beaches of the Western Shores of the Moon Lake.
+
+You can see an Ugly Guard and a Dumb Guard here.
+
+>use orb
+You hold the orb above your head, and shouting at the top of your moon-lungs call upon the strength of the GREAT SPACE WIZARD! In an instant, a horrible and blinding light fills the courtyard. Your senses are overwhelmed by a sound like a mix between a piercing scream and metal grinding. Powerful winds sweep around you, and kick up a thick dust that does little to stop the penetrating rays emenating from the orb, which is now hot in your hands. You begin to feel woozy, and just as you feel that you are on the verge of losing consciousness, your world flashes black for a split second, and looking at the now-dimly glowing orb in your hands, you realize that it is over.
+
+Whatever un-moonly force it was that you summoned seems to have blown the door to the palace clean open.
+
+Oh SPACE WIZARD, how awful! The blast from the orb seems to have torn the two guards to shreds. Even if they were MOON DUKE's men, you never meant to hurt them. Their mangled corpses slump against the wall, torn to pieces by the same forces that opened the palace door for you.
+
+>n
+
+Main Hall
+You stand beneath the vaulted ceilings of the beautiful and ellaborately decorated Main Hall of the Moon Palace. From here, you see two doorways, one to the east and the other to the west. Ahead of you, to the north, you see the grand doorway to the Throne Room.
+
+>w
+
+Library
+Ah, the library! As a child, you spent many hours here chewing through the heirloom texts. Now, however, it's a complete mess. It looks like someone ransacked the whole place, though whoever did it seems to be long gone. An empty bookshelf has been knocked on its side, and an old book lies splayed open on the floor. A chair sits on it's side in the corner, evidently thrown there judging by the scuff marks on the wall.
+
+To the east, you see the passageway back to the Main Hall.
+
+You can see a black book here.
+
+>take black book
+Taken.
+
+>read black book
+Odd, this book looks entirely untouched. Opening the cover, you realize it's the diary of the old palace cook! You read the most recent entry:
+
+"I've been having a hard time sleeping lately... I keep hearing noises coming from behind the old dresser, but I'm certain it's just my imagination. That said, the noises are only getting louder and louder. I'm afraid to tell anyone, though. They'll think I'm crazy!"
+
+>e
+
+Main Hall
+You stand beneath the vaulted ceilings of the beautiful and ellaborately decorated Main Hall of the Moon Palace. From here, you see two doorways, one to the east and the other to the west. Ahead of you, to the north, you see the grand doorway to the Throne Room.
+
+>e
+
+Servants Quarters
+The room that the staff and servants of the palace used to sleep in. It's empty now, and all the personal possesions seem to have been removed. You can't think of a reason why Moon Duke would want to dispose of the entire staff, including the cooks and cleaners, but you don't want to imagine their fate, either.
+
+To the west, you see the passageway back to the Main Hall.
+
+>move dresser
+You give the dresser a confident shove, causing the entire piece of furniture to swing forward and reveal a secret passage behind it, leading north!
+
+>n
+
+Secret Room
+A room behind the servants quarters?? Despite living in the palace your entire life, you never new such a secret room existed!
+
+To the south, you see the opening to return to the Servants Quarters
+
+You can see a Moon King here.
+
+You look around the darkened room, and notice a figure slumped in the corner. It's your father, the MOON KING. You run to his side, and see that he is gravely wounded: His left orbital is badly smashed, and he is bleeding strongly from a wound in his chest.
+
+ You say:
+ "Father! Can you hear me?? What has happened, who did this to you??"
+
+ Moon King says:
+ "Ah, my son. I am very glad you have found me. *cough* I am afraid I don't have much time left. While you were away on Earth, your uncle MOON DUKE arrived at the palace with several of his thugs. It has been generations since there was any violent conflict in the MOON KINGDOM. We were totally... unprepared."
+
+ MOON KING wheezes loudly. He seems to be becoming dizzy.
+
+ Moon King says:
+ "I'm fading fast, my son. MOON DUKE did this to me. I tried to stop him, but... but I came here to hide. He is waiting for you in the Throne Room. MOON PRINCE, your uncle intends to take over the MOON KINGDOM. It is too late for me, but you must stop him!
+ You are strong, MOON PRINCE. You are my son. I know you can do this."
+
+ MOON KING closes his eyes. He seems barely present anymore.
+
+ You say:
+ "Dad... Are you still there?"
+
+ Moon King says:
+ "Son, I... I love y..."
+
+ MOON KING is no longer responsive. He doesn't seem to be breathing.
+
+>x Moon King
+It's really true, your father has passed on. The loss is difficult for you to accept, but you must press onward. You realize that with your father's passing, the throne is now rightfully left to you, and you vow to honor his memory and his legacy of just and fair rule.
+
+>s
+
+Servants Quarters
+The room that the staff and servants of the palace used to sleep in. It's empty now, and all the personal possesions seem to have been removed. You can't think of a reason why Moon Duke would want to dispose of the entire staff, including the cooks and cleaners, but you don't want to imagine their fate, either.
+
+To the west, you see the passageway back to the Main Hall.
+
+>w
+
+Main Hall
+You stand beneath the vaulted ceilings of the beautiful and ellaborately decorated Main Hall of the Moon Palace. From here, you see two doorways, one to the east and the other to the west. Ahead of you, to the north, you see the grand doorway to the Throne Room.
+
+>n
+
+Throne Room
+Finally, the Throne Room! As a child, you found your father's throne intimidating and frightening. Now, you're too blinded with rage and hatred for MOON DUKE to appreciate the baroque and graceful carvings that decorate the throne, or the beautiful floor-to-ceiling stained glass window that composes the rear wall. Standing at the seat of rule, you realize that nothing stands between you and reclaiming your rightful place in the Moon Kingdom!
+
+You can see a Moon Duke here.
+
+>use sword
+While MOON DUKE is busy congratulating himself on his victory, you take the opportunity to draw your blade, and lunge at him! Quickly, MOON DUKE deflects your blow with a swipe of his bastardsword. You are impressed by the speed with which he is able to move such a large and heavy weapon, but nevertheless you are undeterred. Though your blade is light, MOON DUKE is fast and powerful, parrying your every blow. As your weapon bounces off of your opponent's, each strike causes it to ring a beautiful and graceful note, like some sort of grand tuning fork. Eventually, you realize that you aren't even moving the sword yourself at all, the sword itself is moving as if possessed, striking harder and faster than even your own respectable skill could muster. MOON DUKE is becoming increasingly frustrated as the duel drags on, and his attacks are becoming more and more desperate, more impatient and less rational. As MOON DUKE's blade strikes yours ever harder, the ringing of your blade grows louder and louder, until it is nearly deafening. Eventually, you bring down a mightly blow towards MOON DUKE's head, and as he raises his sword to block and your blades connect, his bastardsword shatters like glass, and tiny shards of metal tinkling to the ground around the two of you.
+
+For a moment, MOON DUKE stands there motionless, seemingly unsure of how to react. As he stands, you raise your sword, whose blade is now white hot and glowing. No longer knowing if it is you controlling the sword or the sword controlling you, you plunge the blade into MOON DUKE's forehead before he is able to react.
+
+ The ringing stops. MOON DUKE falls backwards, your sword sliding easily out of the terrible wound in his face. The fight is over, and you have won.
+Though your father did not make it, you have defeated MOON DUKE and restored order to the MOON KINGDOM. You decide to devote your rule to your father's legacy of peace and prosperity. You are now the MOON KING.
+
+
+
+    *** The End ***
